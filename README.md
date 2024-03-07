@@ -8,7 +8,7 @@ Full Stack Developer (MERN)
 * ✉️  You can contact me at [parthasarathigovind2001@gmail.com](mailto:parthasarathigovind2001@gmail.com)
 
 ### About me:
-* ⚡  I'm a creative and encouraging team player skilled at effectively presenting ideas for organizational success specialize in building end-to- end web applications using the MERN stack. With a strong foundation in both frontend and backend technologies
+ ⚡  I'm a creative and encouraging team player skilled at effectively presenting ideas for organizational success specialize in building end-to- end web applications using the MERN stack. With a strong foundation in both frontend and backend technologies
 ### Certificate:
 * Proficient in the MERN (MongoDB, Express.js, React.js,Node.js) stack
 * Front-end development using React.js, including statemanagement and component-based architecture .Back-end development with Node.js and Express.js,creating RESTful.
@@ -32,7 +32,12 @@ Full Stack Developer (MERN)
 
 </p>
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=partha2001ps&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=partha2001ps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/partha2001ps" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://www.linkedin.com/in/parthasarathi-g-b6923b258/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
